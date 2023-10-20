@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "greet_spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aanaltest/Greet_SPM",
+      "state" : {
+        "revision" : "c283a34807a44a8e059160e214d8d4abffd96db8",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}

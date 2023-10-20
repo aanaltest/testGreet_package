@@ -1,0 +1,11 @@
+framework module TestGreet {
+  umbrella header "TestGreet.h"
+  export *
+
+  module * { export * }
+}
+
+module TestGreet.Swift {
+  header "TestGreet-Swift.h"
+  requires objc
+}
